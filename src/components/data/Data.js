@@ -304,83 +304,107 @@ icon: [
 ]
 export const price = [
   {
-    plan: "Basic",
+    plan: "2+1 Family Grand",
     price: "29",
     ptext: "per user, per month",
     list: [
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "99.5% Uptime Guarantee",
+        text: "LIVING ROOM – KITCHEN (28.5 m²)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "120GB CDN Bandwidth",
+        text: "BEDROOM 1 (12.6 m²)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "5GB Cloud Storage",
+        text: "BEDROOM 2 (12.2 m²)",
       },
-      { change: "color", icon: <i class='fa-solid fa-x'></i>, text: "Personal Help Support" },
-      { change: "color", icon: <i class='fa-solid fa-x'></i>, text: "Enterprise SLA" },
+
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "PARENTS BATHROOM (3.5 m²)",
+      },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "MAIN BATHROOM (4.6 m²)",
+      }, {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "TERRACE(45 m²)",
+      },
+
+
+
+      
     ],
   },
   {
     best: "Best Value",
-    plan: "Standard",
+    plan: "2+1 Premier Grand",
     price: "49",
     ptext: "per user, per month",
     list: [
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "99.5% Uptime Guarantee",
+        text: "LIVING ROOM – KITCHEN (31 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "150GB CDN Bandwidth",
+        text: "BEDROOM 1 (12 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "10GB Cloud Storage",
+        text: "BEDROOM 2 (10.4 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "Personal Help Support",
+        text: "BATHROOM (5 m2)",
       },
       {
-        change: "color",
-        icon: <i class='fa-solid fa-x'></i>,
-        text: "Enterprise SLA",
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "TERRACE (45 m2)",
       },
+      
     ],
   },
   {
-    plan: "Platinum",
+    plan: "2+1 Family",
     price: "79",
     ptext: "2 user, per month",
     list: [
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "100% Uptime Guarantee",
+        text: "LIVING ROOM – KITCHEN (28.5 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "200GB CDN Bandwidth",
+        text: "BEDROOM 1 (12.6 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "20GB Cloud Storage",
+        text: "BEDROOM 2 (12.2 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "Personal Help Support",
+        text: "ENSUITE BATHROOM (3.5 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "Enterprise SLA",
+        text: "MAIN BATHROOM (4.6 m2)",
       },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "BALCONY (9 m2)",
+      },
+
+      
+
+  
     ],
   },
 ]
+
+
 export const footer = [
   {
     title: "LAYOUTS",

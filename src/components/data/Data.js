@@ -55,34 +55,34 @@ export const list = [
   {
     id: 1,
     cover: "../images/list/p-1.png",
-    name: "Red Carpet Real Estate",
+    name: "2+1 Family Grand",
     location: " Cyprus",
     category: "For Rent",
     price: "$3,700",
-    type: "Apartment",
+    Size: "130m2",
   },
   {
     id: 2,
     cover: "../images/list/p-2.png",
-    name: "Fairmount Properties",
+    name: "2+1 Premier Grand",
     location: "Cyprus",
     category: "For Sale",
     price: "$9,750",
-    type: "Condos",
+    Size: "113mz",
   },
   {
     id: 3,
     cover: "../images/list/p-7.png",
-    name: "The Real Estate Corner",
+    name: "2+1 Family",
     location: "Cyprus",
     category: "For Rent",
     price: "$5,860",
-    type: "Offices",
+    size: "84mz",
   },
   {
     id: 4,
     cover: "../images/list/p-4.png",
-    name: "Herringbone Realty",
+    name: "2+1 Infinite",
     location: "Cyprus",
     category: "For Sale",
     price: "$7,540",
@@ -91,7 +91,7 @@ export const list = [
   {
     id: 5,
     cover: "../images/list/p-5.png",
-    name: "Brick Lane Realty",
+    name: "2+1 Premier",
     location: "Cyprus",
     category: "For Rent",
     price: "$4,850",
@@ -100,7 +100,26 @@ export const list = [
   {
     id: 6,
     cover: "../images/list/p-6.png",
-    name: "Banyon Tree Realty",
+    name: "1+1 Premier Grand",
+    location: "Cyprus",
+    category: "For Sale",
+    price: "$2,742",
+    type: "Apartment",
+  },
+  {
+    id: 7,
+    cover: "../images/list/p-6.png",
+    name: "1+1 Premier ",
+    location: "Cyprus",
+    category: "For Sale",
+    price: "$2,742",
+    size: "Apartment",
+  },
+  
+  {
+    id: 6,
+    cover: "../images/list/p-6.png",
+    name: "Studio",
     location: "Cyprus",
     category: "For Sale",
     price: "$2,742",
@@ -186,16 +205,16 @@ export const team = [
     address: "Cyprus",
     name: "Sargam S. Singh",
     icon:[
-      <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.facebook.com/Beulah Real Estate" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-facebook-f'></i>
       </a>,
-      <a href="https://www.linkedin.com/in/chinaza-sunday" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/beulah-luxury-properties" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-linkedin'></i>
       </a>,
-      <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://twitter.com/Beulahaproperty" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-twitter'></i>
       </a>,
-      <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/BEULAH EXCLUSIVEPROPERTIES" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-instagram'></i>
       </a>
     ],
@@ -206,16 +225,16 @@ export const team = [
     address: "Cyprus",
     name: "Harijeet M. Siller",
     icon: [
-      <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.facebook.com/Beulah Real Estate" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-facebook-f'></i>
       </a>,
-      <a href="https://www.linkedin.com/in/chinaza-sunday" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/beulah-luxury-properties" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-linkedin'></i>
       </a>,
-      <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://twitter.com/Beulahaproperty" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-twitter'></i>
       </a>,
-      <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/BEULAH EXCLUSIVEPROPERTIES" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-instagram'></i>
       </a>
     ],
@@ -226,16 +245,16 @@ export const team = [
     address: "Cyprus",
     name: "Anna K. Young",
     icon: [
-      <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.facebook.com/Beulah Real Estate" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-facebook-f'></i>
       </a>,
-      <a href="https://www.linkedin.com/in/chinaza-sunday" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/beulah-luxury-properties" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-linkedin'></i>
       </a>,
-      <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://twitter.com/Beulahaproperty" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-twitter'></i>
       </a>,
-      <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/BEULAH EXCLUSIVEPROPERTIES" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-instagram'></i>
       </a>
     ],
@@ -246,16 +265,16 @@ export const team = [
     address: "Cyprus",
     name: "Michael P. Grimaldo",
     icon: [
-      <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.facebook.com/Beulah Real Estate" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-facebook-f'></i>
       </a>,
-      <a href="https://www.linkedin.com/in/chinaza-sunday" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/beulah-luxury-properties" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-linkedin'></i>
       </a>,
-      <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://twitter.com/Beulahaproperty" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-twitter'></i>
       </a>,
-      <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/BEULAH EXCLUSIVEPROPERTIES" target="_blank" rel="noopener noreferrer">
         <i class='fa-brands fa-instagram'></i>
       </a>
     ],
@@ -266,41 +285,22 @@ cover: "../images/customer/team-5.jpg",
 address: "Cyprus",
 name: "Michael P. Grimaldo",
 icon: [
-  <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/Beulah Real Estate" target="_blank" rel="noopener noreferrer">
     <i class='fa-brands fa-facebook-f'></i>
   </a>,
-  <a href="https://www.linkedin.com/in/chinaza-sunday" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/beulah-luxury-properties" target="_blank" rel="noopener noreferrer">
     <i class='fa-brands fa-linkedin'></i>
   </a>,
-  <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/Beulahaproperty" target="_blank" rel="noopener noreferrer">
     <i class='fa-brands fa-twitter'></i>
   </a>,
-  <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/BEULAH EXCLUSIVEPROPERTIES" target="_blank" rel="noopener noreferrer">
     <i class='fa-brands fa-instagram'></i>
   </a>
 ],
 
   },
-  {
-    list: "38",
-    cover: "../images/customer/team-5.jpg",
-    address: "Cyprus",
-    name: "Adam K. Jollio",
-    icon: [
-      <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
-        <i class='fa-brands fa-facebook-f'></i>
-      </a>,
-      <a href="https://www.linkedin.com/in/chinaza-sunday" target="_blank" rel="noopener noreferrer">
-        <i class='fa-brands fa-linkedin'></i>
-      </a>,
-      <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
-        <i class='fa-brands fa-twitter'></i>
-      </a>,
-      <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
-        <i class='fa-brands fa-instagram'></i>
-      </a>
-    ],
-  },
+  
 ]
 export const price = [
   {

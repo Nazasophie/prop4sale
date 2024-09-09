@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";  // Added useRef and useState here
-import Heading from "../common/Heading"
+
 import "./contact.css";
 import Button from '../../components/button/Button';
 import { useForm } from "react-hook-form";

@@ -390,37 +390,10 @@ export const price = [
       },
     ],
   },
-  {
-    best: "Best Value",
-    plan: "2+1 Premier Grand",
-    price: "49",
-    ptext: "per user, per month",
-    list: [
-      {
-        icon: <i class='fa-solid fa-check'></i>,
-        text: "LIVING ROOM – KITCHEN (31 m2)",
-      },
-      {
-        icon: <i class='fa-solid fa-check'></i>,
-        text: "BEDROOM 1 (12 m2)",
-      },
-      {
-        icon: <i class='fa-solid fa-check'></i>,
-        text: "BEDROOM 2 (10.4 m2)",
-      },
-      {
-        icon: <i class='fa-solid fa-check'></i>,
-        text: "BATHROOM (5 m2)",
-      },
-      {
-        icon: <i class='fa-solid fa-check'></i>,
-        text: "TERRACE (45 m2)",
-      },
-    ],
-  },
+ 
 
   {
-    plan: "2+1 Family Grand",
+    plan: "2+1 Family",
     price: "29",
     ptext: "per user, per month",
     list: [
@@ -446,35 +419,39 @@ export const price = [
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "TERRACE (45 m²)",
+        text: "BALCONY (9 m2m²)",
       },
     ],
   },
   {
     best: "Best Value",
-    plan: "2+1 Premier Grand",
+    plan: "2+1 Infinity Grand-78 m2 ",
     price: "49",
     ptext: "per user, per month",
     list: [
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "LIVING ROOM – KITCHEN (31 m2)",
+        text: "LIVING ROOM – KITCHEN (28.6 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "BEDROOM 1 (12 m2)",
+        text: "BEDROOM 1 (11 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "BEDROOM 2 (10.4 m2)",
+        text: "BEDROOM 2 (10 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "BATHROOM (5 m2)",
+        text: "BATHROOM (4 m2)",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "TERRACE (45 m2)",
+        text: "TERRACE (11 m2)",
+      },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "BALCONY (5.5 m2)",
       },
     ],
   },
@@ -504,12 +481,43 @@ export const price = [
         icon: <i class='fa-solid fa-check'></i>,
         text: "BALCONY(5. 5m²)",
       },
-      {
-        icon: <i class='fa-solid fa-check'></i>,
-        text: "TERRACE (45 m²)",
-      },
+      
     ],
   },
+
+  {
+    plan: "2+1 Infinity - 74 m2",
+    price: "29",
+    ptext: "per user, per month",
+    list: [
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "LIVING ROOM – KITCHEN (28.6 m²)",
+      },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "BEDROOM 1 (11 m²)",
+      },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "BEDROOM 2 (10 m²)",
+      },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: " BATHROOM (4 m²)",
+      },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "BALCONY(5. 5m²)",
+      },
+      {
+        icon: <i class='fa-solid fa-check'></i>,
+        text: "BALCONY(5. 5m²)",
+      },
+      
+    ],
+  },
+
   {
     best: "Best Value",
     plan: "2+1 Premier Grand",

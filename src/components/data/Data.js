@@ -54,7 +54,7 @@ export const featured = [
 export const list = [
   {
     id: 1,
-    cover: "../images/list/p-1.png",
+    cover: "../images/list/2+1 family grand.png",
     name: "2+1 Family Grand",
     location: " Cyprus",
     category: "For Rent",
@@ -63,7 +63,7 @@ export const list = [
   },
   {
     id: 2,
-    cover: "../images/list/p-2.png",
+    cover: "../images/list/2+1 Premier Grand apartments.png",
     name: "2+1 Premier Grand",
     location: "Cyprus",
     category: "For Sale",
@@ -72,7 +72,7 @@ export const list = [
   },
   {
     id: 3,
-    cover: "../images/list/p-7.png",
+    cover: "../images/list/2+1 family apartment.png",
     name: "2+1 Family",
     location: "Cyprus",
     category: "For Rent",
@@ -81,7 +81,7 @@ export const list = [
   },
   {
     id: 4,
-    cover: "../images/list/p-4.png",
+    cover: "../images/list/2+1 Infinity.png",
     name: "2+1 Infinite",
     location: "Cyprus",
     category: "For Sale",
@@ -90,7 +90,7 @@ export const list = [
   },
   {
     id: 5,
-    cover: "../images/list/p-5.png",
+    cover: "../images/list/2+1 premier.png",
     name: "2+1 Premier",
     location: "Cyprus",
     category: "For Rent",
@@ -99,7 +99,7 @@ export const list = [
   },
   {
     id: 6,
-    cover: "../images/list/p-6.png",
+    cover: "../images/list/1+1 premier grand.png",
     name: "1+1 Premier Grand",
     location: "Cyprus",
     category: "For Sale",
@@ -108,7 +108,7 @@ export const list = [
   },
   {
     id: 7,
-    cover: "../images/list/p-6.png",
+    cover: "../images/list/1+1 Premier.png",
     name: "1+1 Premier ",
     location: "Cyprus",
     category: "For Sale",
